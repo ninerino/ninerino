@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currently studying to become a Front End Developer. Looking forward to learn more about HTML, CSS and JavaScript during the course of the two years that I'm studying!
+
 <!--
 **ninerino/ninerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
