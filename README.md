@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Currently studying to become a Front End Developer. Looking forward to learn more about HTML, CSS and JavaScript during the course of the two years that I'm studying!
+Currently studying to become a Front End Developer.
+🌱 I'm currently learning UI/UX design
+🔭 My current hobby project is a JavaScript game where you play as an actor in Hollywood.
 
 <!--
 **ninerino/ninerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
