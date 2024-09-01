@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Currently studying to become a Front End Developer.
-🌱 I'm currently learning UI/UX design
+Currently studying to become a Front End Developer.<br>
+🌱 I'm currently learning UI/UX design.<br>
 🔭 My current hobby project is a JavaScript game where you play as an actor in Hollywood.
 
 <!--
