@@ -2,7 +2,7 @@
 
 Currently studying to become a Front End Developer.<br>
 🌱 I'm currently learning UI/UX design.<br>
-🔭 My current hobby project is a JavaScript game where you play as an actor in Hollywood.
+🔭 My current hobby projects are a Concert Archive for the concerts I've been to, and a game where you play as an actor.
 
 <!--
 **ninerino/ninerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
